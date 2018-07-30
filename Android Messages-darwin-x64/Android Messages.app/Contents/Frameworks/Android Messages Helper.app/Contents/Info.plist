@@ -4,14 +4,10 @@
   <dict>
     <key>BuildMachineOSBuild</key>
     <string>16G1510</string>
-    <key>CFBundleDisplayName</key>
-    <string>APP Helper EH</string>
-    <key>CFBundleExecutable</key>
-    <string>APP Helper EH</string>
     <key>CFBundleIdentifier</key>
-    <string>com.electron.app.helper.EH</string>
+    <string>com.electron.android-messages.helper</string>
     <key>CFBundleName</key>
-    <string>APP Helper EH</string>
+    <string>Android Messages</string>
     <key>CFBundlePackageType</key>
     <string>APPL</string>
     <key>DTSDKBuild</key>
@@ -26,5 +22,9 @@
     <true/>
     <key>NSSupportsAutomaticGraphicsSwitching</key>
     <true/>
+    <key>CFBundleDisplayName</key>
+    <string>Android Messages Helper</string>
+    <key>CFBundleExecutable</key>
+    <string>Android Messages Helper</string>
   </dict>
 </plist>

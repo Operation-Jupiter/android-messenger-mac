@@ -5,23 +5,15 @@
     <key>BuildMachineOSBuild</key>
     <string>16G1510</string>
     <key>CFBundleDisplayName</key>
-    <string>APP</string>
+    <string>Android Messages Helper EH</string>
     <key>CFBundleExecutable</key>
-    <string>APP</string>
-    <key>CFBundleIconFile</key>
-    <string>electron.icns</string>
+    <string>Android Messages Helper EH</string>
     <key>CFBundleIdentifier</key>
-    <string>com.electron.app</string>
-    <key>CFBundleInfoDictionaryVersion</key>
-    <string>6.0</string>
+    <string>com.electron.android-messages.helper.EH</string>
     <key>CFBundleName</key>
-    <string>APP</string>
+    <string>Android Messages Helper EH</string>
     <key>CFBundlePackageType</key>
     <string>APPL</string>
-    <key>CFBundleShortVersionString</key>
-    <string>1.0.0</string>
-    <key>CFBundleVersion</key>
-    <string>1.0.0</string>
     <key>DTSDKBuild</key>
     <string>14D125</string>
     <key>DTSDKName</key>
@@ -30,16 +22,8 @@
     <string>0833</string>
     <key>DTXcodeBuild</key>
     <string>8E3004b</string>
-    <key>LSApplicationCategoryType</key>
-    <string>public.app-category.developer-tools</string>
-    <key>LSMinimumSystemVersion</key>
-    <string>10.9.0</string>
-    <key>NSHighResolutionCapable</key>
+    <key>LSUIElement</key>
     <true/>
-    <key>NSMainNibFile</key>
-    <string>MainMenu</string>
-    <key>NSPrincipalClass</key>
-    <string>AtomApplication</string>
     <key>NSSupportsAutomaticGraphicsSwitching</key>
     <true/>
   </dict>
