@@ -1,5 +1,7 @@
 # Android Messenger for Mac
 
+> Use [Flotato](https://flotato.com/) instead, my wrapper doesn't work anymore and Flotato runs without using Electron and can be used for any web app.
+
 Mac app wrapper around [Google's stand-alone Android Messenger](http://messages.android.com/). Made by [jake101.com](https://jake101.com/).
 
 > [Download latest release](https://github.com/jake-101/android-messenger-mac/archive/master.zip)<br>
